@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Prompt', Times, serif
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    line-height: 2;
+    margin: 50px auto 0 auto; 
+   
+}
+h2{ 
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2,5rem;
+    font-weight: normal;
+
+}
+h3{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    border: dotted;
+    border-bottom: none;
+    width: 5%;
+    margin: auto;
+}
+
+.topcontainer {
+    background-color: #AAE3E2;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    
+}
+.top-cloud{
+    position:absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+
+}
+.top-pc{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+
+}
+.middle-game{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+
+}
+.myself{
+    width: 200px;
+    border-radius: 120px;
+}
+.bottom-container{
+    background-color: #66bfbf;
+}
+
+.btn {
+    font-size:20px;
+    font-family:Arial;
+    width: 200px;
+    height: 80px;
+    border-width:1px;
+    color:#fff;
+    border-color:#337bc4;
+    font-weight:bold;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    box-shadow: 3px 4px 0px 0px #1564ad;
+    background:linear-gradient(#79bbff, #378de5);
+  }
+  
+  .btn:hover {
+    background: linear-gradient(#378de5, #79bbff);
+  }
+                
